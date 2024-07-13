@@ -3,6 +3,7 @@
 
 #include <string>
 #include <vector>
+#include <algorithm>
 
 namespace Utils {
     // Copy file from source path to dest path
